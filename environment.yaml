@@ -1,0 +1,8 @@
+name: uva-ir0
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas=2.2.2
+  - jupyterlab=4.2.4
+  - numpy=2.0.1
