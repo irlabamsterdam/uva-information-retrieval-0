@@ -14,7 +14,7 @@ conda env create -f environment.yaml
 ``` 
 3. Activate the environment in your current terminal session:
 ```bash
-conda activate uva-ir0
+conda activate uva-ir0-assignments
 ```
 4. Launch a JupyterLab server to work on the assignments:
 ```bash

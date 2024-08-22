@@ -1,4 +1,4 @@
-name: uva-ir0
+name: uva-ir0-assignments
 channels:
   - conda-forge
 dependencies:
